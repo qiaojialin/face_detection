@@ -12,6 +12,14 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="face_detection.cpp" />
+    <ClCompile Include="tinystr.cpp" />
+    <ClCompile Include="tinyxml.cpp" />
+    <ClCompile Include="tinyxmlerror.cpp" />
+    <ClCompile Include="tinyxmlparser.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tinystr.h" />
+    <ClInclude Include="tinyxml.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{361E479D-95AD-4AB6-AA6D-E64E86F124F9}</ProjectGuid>

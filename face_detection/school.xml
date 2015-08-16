@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<School>
+    <Class name="C++">
+        <Student name="tinyxml" number="123">
+            <email>tinyxml@163.com</email>
+            <address>ÖÐ¹ú</address>
+        </Student>
+    </Class>
+</School>
